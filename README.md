@@ -1,6 +1,6 @@
-<p> Nama : Kholid Wahyudi
-NIM : 312210345
-Kelas : TI.22.B2 <p/>
+<p> Nama : Kholid Wahyudi <p/>
+<p> NIM : 312210345 <p/>
+<p> Kelas : TI.22.B2 <p/>
 
 # Python - Exceptions Handling
 ## Pengertian
@@ -142,3 +142,5 @@ try:
 except Networkerror,e:
    print e.args
 ```
+
+# Sekian Dan Terimaksih
